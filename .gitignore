@@ -1,0 +1,19 @@
+# Ignore large dataset files (download separately)
+Crime_Data_from_2020_to_Present.csv
+
+# Ignore PDF and DOC files
+*.pdf
+*.docx
+*.doc
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
+.venv/
